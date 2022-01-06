@@ -27,13 +27,16 @@ I'm `Hung Nguyen` a 21 years old self-taught software developer who does his bes
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ![IDE's](https://img.shields.io/badge/-IDE's-darkblue?style=for-the-badge)
+
 ![vscode](https://img.shields.io/badge/-Visual%20StudioL%20Code-0A1A2F?style=for-the-badge&logo=visualstudiocode)
 
 ![DESIGN](https://img.shields.io/badge/-DESIGN%20TOOLS-orange?style=for-the-badge)
+
 ![figma](https://img.shields.io/badge/-figma-0A1A2F?style=for-the-badge&logo=figma)
 ![framer](https://img.shields.io/badge/-framer-0A1A2F?style=for-the-badge&logo=framer)
 
 ![PROGRAMMING LANGUAGE](https://img.shields.io/badge/-proramming%20language-red?style=for-the-badge)
+
 ![typescript](https://img.shields.io/badge/-typescript-0A1A2F?style=for-the-badge&logo=typescript)
 ![javascript](https://img.shields.io/badge/-javascript-0A1A2F?style=for-the-badge&logo=javascript)
 
