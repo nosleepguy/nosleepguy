@@ -58,7 +58,6 @@ I'm `Hung Nguyen` a 21 years old self-taught software developer who does his bes
   <img align="center" alt="babel" height="30" width="30" src="https://avatars.githubusercontent.com/u/65625612?s=280&v=4">
   <img align="center" alt="three" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg">
   <img align="center" alt="tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
-  <img align="center" alt="Material" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
   <img align="center" alt="Bootstrap" height="30" width="30" src="https://www.iamrohit.tech/logo/chakra-ui.png">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="socketIO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg">
