@@ -40,6 +40,7 @@ I'm `Hung Nguyen` a 21 years old self-taught software developer who does his bes
 ![typescript](https://img.shields.io/badge/-typescript-0A1A2F?style=for-the-badge&logo=typescript)
 ![javascript](https://img.shields.io/badge/-javascript-0A1A2F?style=for-the-badge&logo=javascript)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nmhung1234&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ---
 
 <div align="center">
@@ -71,4 +72,3 @@ I'm `Hung Nguyen` a 21 years old self-taught software developer who does his bes
 <br />
 <br />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nmhung1234&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
