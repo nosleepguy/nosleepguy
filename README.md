@@ -70,3 +70,5 @@ I'm `Hung Nguyen` a 21 years old self-taught software developer who does his bes
 <br />
 <br />
 <br />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nmhung1234&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
