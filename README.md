@@ -1,12 +1,10 @@
 # Hi There! 👋
 
-How are U today? 🎶
+How's it going? 🎶
 
-I'm `Hung Nguyen` a 21 years old self-taught software developer who does his best to learn new technologies everyday and create beautiful things.
+I'm `Hung Nguyen`, 23 years old. I'm technology engineer who does his best to learn new technologies everyday to  create beautiful things.
 <br/>
 My website: <a href="https://hungnmdev.vercel.app/">https://hungnmdev.vercel.app/</a>
-
-<!-- <h3> 🛠 &nbsp;Tech Stack</h3> -->
 
 #### Connect with me:
 
@@ -63,12 +61,15 @@ My website: <a href="https://hungnmdev.vercel.app/">https://hungnmdev.vercel.app
   <img align="center" alt="babel" height="30" width="30" src="https://avatars.githubusercontent.com/u/65625612?s=280&v=4">
   <img align="center" alt="three" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg">
   <img align="center" alt="tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="antd" height="30" width="40" src="https://camo.githubusercontent.com/363242675617648bfbedd1610f89ac28df0f9e1bac8749d83109fafdf8524fff/68747470733a2f2f67772e616c697061796f626a656374732e636f6d2f7a6f732f726d73706f7274616c2f4b4470677667754d704766716148506a6963524b2e737667"/>
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="socketIO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="NodeJS" height="30" width="30" src="https://images.ctfassets.net/co0pvta7hzrh/42HrBQWEmcwaommKmaOi4e/6451e733189a198d017b6a448f79e6e1/MongoDB.png">
   <img align="center" alt="Yarn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg">
-  <img align="center" alt="SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
+  
+</div>
 </div>
 
 <br />
