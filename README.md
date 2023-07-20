@@ -40,7 +40,7 @@ My website: <a href="https://hungnmdev.vercel.app/">https://hungnmdev.vercel.app
 ![typescript](https://img.shields.io/badge/-typescript-0A1A2F?style=for-the-badge&logo=typescript)
 ![javascript](https://img.shields.io/badge/-javascript-0A1A2F?style=for-the-badge&logo=javascript)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nosleepguy&exclude_days=Sun%2CSat&hide_current_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nosleepguy&hide_current_streak=true)](https://git.io/streak-stats)
 ---
 
 <div align="center">
