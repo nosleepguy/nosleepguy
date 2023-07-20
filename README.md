@@ -34,6 +34,8 @@ My website: <a href="https://hungnmdev.vercel.app/">https://hungnmdev.vercel.app
 
 ![figma](https://img.shields.io/badge/-figma-0A1A2F?style=for-the-badge&logo=figma)
 ![framer](https://img.shields.io/badge/-framer-0A1A2F?style=for-the-badge&logo=framer)
+![miro](https://img.shields.io/badge/-miro-0A1A2F?style=for-the-badge&logo=miro)
+![InVision](https://img.shields.io/badge/-InVision-0A1A2F?style=for-the-badge&logo=InVision)
 
 ![PROGRAMMING LANGUAGE](https://img.shields.io/badge/-proramming%20language-red?style=for-the-badge)
 
