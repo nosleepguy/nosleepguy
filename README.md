@@ -48,12 +48,12 @@ My website: <a href="https://hungnm-dev.vercel.app/">https://hungnm-dev.vercel.a
 
 <div align="center">
   
-  ###### SKILLS & TECHNOLOGIES:
-  
+  ##### SKILLS & TECHNOLOGIES:
 </div>
+<br />
 
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+<div align="center">
+  <img class="img" align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
   <img align="center" alt="Electron" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg">
   <img align="center" alt="NextJS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg">
@@ -72,11 +72,6 @@ My website: <a href="https://hungnm-dev.vercel.app/">https://hungnm-dev.vercel.a
   <img align="center" alt="Mongo" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Yarn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg">
   <img align="center" alt="SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"/>
-  
-</div>
 </div>
 
 <br />
-<br />
-<br />
-
