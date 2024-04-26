@@ -11,7 +11,7 @@ My website: <a href="https://hungnm-dev.vercel.app/">https://hungnm-dev.vercel.a
 <a href="mailto:hung.nm.here@gmail.com">
 <img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.facebook.com/messages/t/100013480894555">
+<a href="https://www.facebook.com/messages/t/1gray13480894555">
 <img align="left" alt="messenger"  src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" />
 </a>
 <a href="https://discordapp.com/users/467862581822881804">
@@ -21,26 +21,27 @@ My website: <a href="https://hungnm-dev.vercel.app/">https://hungnm-dev.vercel.a
 <br />
 <br />
 
-![OS](https://img.shields.io/badge/-OS-blue?style=for-the-badge)
-
+![OS](https://img.shields.io/badge/-OS-gray?style=for-the-badge) &nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+<br/>
 
-![IDE's](https://img.shields.io/badge/-IDE's-darkblue?style=for-the-badge)
+![IDE](https://img.shields.io/badge/-IDE-gray?style=for-the-badge) &nbsp;
+![vscode](https://img.shields.io/badge/-Visual%20StudioL%20Code-097cbc?style=for-the-badge&logo=visualstudiocode)
 
-![vscode](https://img.shields.io/badge/-Visual%20StudioL%20Code-0A1A2F?style=for-the-badge&logo=visualstudiocode)
+![SoureControl](https://img.shields.io/badge/-Source%20Control-gray?style=for-the-badge) &nbsp;
+![gitLab](https://img.shields.io/badge/-gitlab-E95420?style=for-the-badge&logo=gitlab&logoColor=white)
+![gitHub](https://img.shields.io/badge/-github-0A1A2F?style=for-the-badge&logo=github&logoColor=white)
 
-![DESIGN](https://img.shields.io/badge/-DESIGN%20TOOLS-orange?style=for-the-badge)
+![DESIGN](https://img.shields.io/badge/-DESIGN%20TOOLS-gray?style=for-the-badge) &nbsp;
+![figma](https://img.shields.io/badge/-figma-9d56f7?style=for-the-badge&logo=figma&logoColor=white)
+![framer](https://img.shields.io/badge/-framer-085aff?style=for-the-badge&logo=framer&logoColor=white)
+![miro](https://img.shields.io/badge/-miro-ffdd33?style=for-the-badge&logo=miro&logoColor=white)
+![InVision](https://img.shields.io/badge/-InVision-fe386a?style=for-the-badge&logo=InVision&logoColor=white)
 
-![figma](https://img.shields.io/badge/-figma-0A1A2F?style=for-the-badge&logo=figma)
-![framer](https://img.shields.io/badge/-framer-0A1A2F?style=for-the-badge&logo=framer)
-![miro](https://img.shields.io/badge/-miro-0A1A2F?style=for-the-badge&logo=miro)
-![InVision](https://img.shields.io/badge/-InVision-0A1A2F?style=for-the-badge&logo=InVision)
-
-![PROGRAMMING LANGUAGE](https://img.shields.io/badge/-proramming%20language-red?style=for-the-badge)
-
-![typescript](https://img.shields.io/badge/-typescript-0A1A2F?style=for-the-badge&logo=typescript)
-![javascript](https://img.shields.io/badge/-javascript-0A1A2F?style=for-the-badge&logo=javascript)
+![PROGRAMMING LANGUAGE](https://img.shields.io/badge/-proramming%20language-gray?style=for-the-badge) &nbsp;
+![typescript](https://img.shields.io/badge/-typescript-377cc8?style=for-the-badge&logo=typescript&logoColor=white)
+![javascript](https://img.shields.io/badge/-javascript-f0dc55?style=for-the-badge&logo=javascript&logoColor=white)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nosleepguy&hide_current_streak=true)](https://git.io/streak-stats)
 ---
@@ -52,7 +53,6 @@ My website: <a href="https://hungnm-dev.vercel.app/">https://hungnm-dev.vercel.a
 </div>
 
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
   <img align="center" alt="Electron" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg">
   <img align="center" alt="NextJS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
