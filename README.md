@@ -2,7 +2,7 @@
 
 How's it going? 🎶
 
-I'm `Hung Nguyen`, 23 years old. I'm technology engineer who does his best to learn new technologies everyday to  create beautiful things.
+I'm `Hung Nguyen`, 24 years old. I'm a technology engineer who does his best to learn new technologies everyday to create beautiful things.
 
 My website: <a href="https://hungnm-dev.vercel.app/">https://hungnm-dev.vercel.app/</a>
 
