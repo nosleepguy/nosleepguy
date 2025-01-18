@@ -11,7 +11,7 @@ My website: <a href="https://hungnm-dev.vercel.app/">https://hungnm-dev.vercel.a
 <a href="mailto:hung.nm.here@gmail.com">
 <img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.facebook.com/messages/t/1gray13480894555">
+<a href="https://www.messenger.com/e2ee/t/hung.nm.here/">
 <img align="left" alt="messenger"  src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" />
 </a>
 <a href="https://discordapp.com/users/467862581822881804">
@@ -27,19 +27,19 @@ My website: <a href="https://hungnm-dev.vercel.app/">https://hungnm-dev.vercel.a
 <br/>
 
 ![IDE](https://img.shields.io/badge/-IDE-gray?style=for-the-badge) &nbsp;
-![vscode](https://img.shields.io/badge/-Visual%20StudioL%20Code-097cbc?style=for-the-badge&logo=visualstudiocode)
+![vscode](https://img.shields.io/badge/-Visual%20Studio%20Code-097cbc?style=for-the-badge&logo=visualstudiocode)
 
 ![SoureControl](https://img.shields.io/badge/-Source%20Control-gray?style=for-the-badge) &nbsp;
 ![gitLab](https://img.shields.io/badge/-gitlab-E95420?style=for-the-badge&logo=gitlab&logoColor=white)
 ![gitHub](https://img.shields.io/badge/-github-0A1A2F?style=for-the-badge&logo=github&logoColor=white)
 
-![DESIGN](https://img.shields.io/badge/-DESIGN%20TOOLS-gray?style=for-the-badge) &nbsp;
+![DESIGN](https://img.shields.io/badge/-DESIGN%20TOOL-gray?style=for-the-badge) &nbsp;
 ![figma](https://img.shields.io/badge/-figma-9d56f7?style=for-the-badge&logo=figma&logoColor=white)
 ![framer](https://img.shields.io/badge/-framer-085aff?style=for-the-badge&logo=framer&logoColor=white)
 ![miro](https://img.shields.io/badge/-miro-ffdd33?style=for-the-badge&logo=miro&logoColor=white)
 ![InVision](https://img.shields.io/badge/-InVision-fe386a?style=for-the-badge&logo=InVision&logoColor=white)
 
-![PROGRAMMING LANGUAGE](https://img.shields.io/badge/-proramming%20language-gray?style=for-the-badge) &nbsp;
+![PROGRAMMING LANGUAGE](https://img.shields.io/badge/-programming%20language-gray?style=for-the-badge) &nbsp;
 ![typescript](https://img.shields.io/badge/-typescript-377cc8?style=for-the-badge&logo=typescript&logoColor=white)
 ![javascript](https://img.shields.io/badge/-javascript-f0dc55?style=for-the-badge&logo=javascript&logoColor=white)
 
